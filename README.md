@@ -20,8 +20,6 @@ More Exercises - Associative Arrays, Lambda and Stream API:
    - MOBA Challenger
    
    - Snowwhite
-   
-   - Dragon Army
 
 More Exercises - Regular Expressions: 
    
