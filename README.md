@@ -1,7 +1,7 @@
 # SoftUni---Fundamentals
 Solutions Of The Most Exercises In Fundamentals Module
 
-Missing Exercises:
+Missing Exercises/Not Fully Complete:
 
 More Exercises - Arrays: 
    
@@ -9,7 +9,7 @@ More Exercises - Arrays:
    
    - Kamino Factory
    
-   - LadyBugs
+   - LadyBugs (90/100)
 
 List - Exercise:
 
@@ -23,8 +23,9 @@ More Exercises - Associative Arrays, Lambda and Stream API:
 
 More Exercises - Regular Expressions: 
    
-   - Winning Ticket
+   - Winning Ticket (80/100)
    
-   - Post Office
+   - Post Office (90/100)
    
    - Santa's Secret Helper
+   
