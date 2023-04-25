@@ -27,5 +27,3 @@ More Exercises - Regular Expressions:
    
    - Post Office (90/100)
    
-   - Santa's Secret Helper
-   
