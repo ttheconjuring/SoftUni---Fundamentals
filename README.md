@@ -1,5 +1,5 @@
 # SoftUni---Fundamentals
-Solutions Of The Most Exercises In Fundamentals Module
+Solutions Of Pretty Much All Exercises In Fundamentals Module
 
 Missing Exercises/Not Fully Complete:
 
